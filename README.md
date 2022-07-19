@@ -5,3 +5,5 @@ yarn && yarn serve
  - vuejs (v.2)
  - ant-design 
  - nodejs must be v14.17.3
+# demo
+ - https://serveleklek.ddns.net/randomuser
