@@ -1,0 +1,35 @@
+.country {
+  display: flex;
+  align-items: center;
+}
+.normal-flag {
+  margin: 0px !important;
+}
+.img-cover-wrap {
+  position: relative;
+}
+.age-text {
+  position: absolute;
+  bottom: 10px;
+  left: 5px;
+  font-weight: bold;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.493);
+  padding: 2px 6px;
+  border-radius: 5px;
+}
+.age-text i {
+  font-size: 14px;
+}
+.country-flag {
+  position: absolute;
+  /* bottom: 10px; */
+  top: 5px;
+  right: 0px;
+}
+.icon-man {
+  color: rgb(0, 162, 255);
+}
+.icon-woman {
+  color: rgb(255, 0, 170);
+}
